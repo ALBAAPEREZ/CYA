@@ -1,0 +1,38 @@
+3
+a
+b
+c
+15
+Ca 
+Cb 
+D0 
+D1 
+D2 
+D3 
+D4 
+D5 
+D6 
+D7 
+D8 
+D9 
+S 
+X 
+Y 
+17
+Ca a
+Ca a
+Cb b
+Cb b
+S CD1
+S CD3
+S CD5
+S CD7
+X CD8
+X CD9
+X a
+X b
+Y CD8
+Y CD9
+Y a
+Y b
+Y c
